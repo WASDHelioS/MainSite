@@ -14,5 +14,9 @@ export default {
       <div>
         <a href="/progs/boid/index.html">Boids!</a>
       </div>
+      <br />
+      <div>
+        <a href="/progs/bezier/index.html">Bezier! </a>
+      </div>
     `,
 };
